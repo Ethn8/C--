@@ -43,4 +43,20 @@
         "xtr1common": "cpp",
         "xutility": "cpp"
     }
+    ,
+    "editor.quickSuggestions": {
+        "other": true,
+        "comments": false,
+        "strings": false
+    },
+    "editor.suggestOnTriggerCharacters": true,
+    "editor.suggestSelection": "recentlyUsedByPrefix",
+    "editor.inlineSuggest.enabled": true,
+    "editor.parameterHints.enabled": true,
+    "C_Cpp.intelliSenseEngine": "Default",
+    "C_Cpp.autocomplete": "Default",
+    "C_Cpp.default.includePath": [
+        "${workspaceFolder}/**"
+    ],
+    "C_Cpp.errorSquiggles": "disabled"
 }
